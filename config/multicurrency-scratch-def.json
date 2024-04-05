@@ -1,11 +1,9 @@
 {
     "orgName": "apex-common",
     "edition": "Developer",
-    "features": [
-        "MultiCurrency"
-    ],
+    "features": ["MultiCurrency"],
     "settings": {
-        "currencySettings":{
+        "currencySettings": {
             "enableMultiCurrency": true
         },
         "lightningExperienceSettings": {
